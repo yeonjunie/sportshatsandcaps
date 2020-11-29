@@ -1,5 +1,6 @@
 # Online Sports Hats and Caps Shop
 Sports Hats & Cats is a simple ecommerce website that sells various hats from major sports leagues in the US, notably the NBA and MLB. The website filters the different sports leagues, types of hats and by price in descending and ascending order. 
+Check out the website here: https://frozen-island-01680.herokuapp.com/
 ## Application's Architecture
 ### Components
 1. <b>App.js</b>

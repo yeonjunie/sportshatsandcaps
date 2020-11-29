@@ -11,6 +11,8 @@ Check out the website here: https://frozen-island-01680.herokuapp.com/
   * Handles filtering 1)leagues 2)style, sorting by price, adding and removing items to the cart, and calculating the total price
   * It keeps track of the current filters (league, style), price sorting (sort), list of items in the cart, and total price as states
   * The handling/filtering functions are passed into the item/button components as props
+  * Calling any of the filtering and sorting functions trigger the state of the filters and filters the product list accordingly. 
+  * Calling any of the adding/removing functions trigger the state of the cart and updates the cart and price accordingly.
   * After the catalog list are filtered/sorted and cart items are updated, it maps to sub-components explained below.
 3. <b>Dropdowns.js</b>
   * Component for filter/sort button dropdowns
